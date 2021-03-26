@@ -1,0 +1,81 @@
+Location	Cases	Deaths
+Penobscot County
+3,332
++32
+58
++0
+Cumberland County
+10,993
++73
+151
++3
+York County
+8,259
++80
+97
++0
+Androscoggin County
+4,208
++19
+52
++0
+Kennebec County
+3,022
++22
+42
++1
+Oxford County
+1,863
++12
+34
++0
+Aroostook County
+1,115
++2
+35
++0
+Somerset County
+1,066
++4
+25
++0
+Hancock County
+766
++5
+30
++0
+Sagadahoc County
+753
++10
+1
++0
+Franklin County
+740
++9
+8
++1
+Washington County
+603
++3
+9
++0
+Knox County
+572
++2
+4
++0
+Waldo County
+505
++12
+18
++0
+Lincoln County
+462
++6
+2
++0
+Piscataquis County
+194
++1
+1
++0

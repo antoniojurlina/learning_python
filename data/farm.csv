@@ -1,0 +1,221 @@
+﻿practice,variable,Unit
+Pesticide Use,Planted acres,"1,000 Acres"
+Pesticide Use,Acres treated with any pesticide,percent of planted acres
+Pesticide Use,Number of treatments with any pesticide,Number
+Pesticide Use,Treatment rate with any pesticide,Pounds a.i. per treated acre
+Pesticide Use,Acres treated with insecticide,percent of planted acres
+Pesticide Use,Number of treatments with insecticide,Number
+Pesticide Use,Treatment rate with insecticide,Pounds a.i. per treated acre
+Pesticide Use,Acres treated with herbicide,percent of planted acres
+Pesticide Use,Number of treatments with herbicide,Number
+Pesticide Use,Treatment rate with herbicide,Pounds a.i. per treated acre
+Pesticide Use,Acres treated with fungicide,percent of planted acres
+Pesticide Use,Number of treatments with fungicide,Number
+Pesticide Use,Treatment rate with fungicide,Pounds a.i. per treated acre
+Pesticide Use,Number of treatments with other pesticide,Number
+Pesticide Use,Acres treated with other pesticide,percent of planted acres
+Pesticide Use,Treatment rate with other pesticide,Pounds a.i. per treated acre
+Crop Residue Management Practices,Planted acres,"1,000 Acres"
+Crop Residue Management Practices,Residue remaining after planting,Percent
+Crop Residue Management Practices,Number of tillage operations,Number
+Crop Residue Management Practices,Cultivated for weed control,percent of planted acres
+Irrigation Technology and Water Use,Planted acres,"1,000 Acres"
+Irrigation Technology and Water Use,Irrigated acres,"1,000 Acres"
+Irrigation Technology and Water Use,Surface water source,Percent of irrigated acres
+Irrigation Technology and Water Use,Ground water source,Percent of irrigated acres
+Irrigation Technology and Water Use,Crop yield per irrigated acre,"Pounds(cotton), Bushels(all other crops)"
+Irrigation Technology and Water Use,Water applied per irrigated acre,Inches
+Seed Use,Planted acres,"1,000 Acres"
+Seed Use,Average seeding rate,Kernels(corn 2001 and earlier) or pounds(all other crops) per acre
+Seed Use,Average row width,Inches
+Seed Use,Non-Genetically Modified Herbicide Resistant Seed Used,percent of planted acres
+Seed Use,BT insecticide resistant seed,percent of planted acres
+Seed Use,GMO herbicide resistant seed,percent of planted acres
+Weed Control Management Practice,Planted acres,"1,000 Acres"
+Weed Control Management Practice,Field scouted for weeds,percent of planted acres
+Weed Control Management Practice,Acres treated with herbicide,percent of planted acres
+Weed Control Management Practice,Number of treatments with herbicide,Number
+Weed Control Management Practice,Treatment rate with herbicide,Pounds a.i. per treated acre
+Weed Control Management Practice,Burn down herbicide used,Percent of treated acres
+Insect Control Management Practice,Planted acres,"1,000 Acres"
+Insect Control Management Practice,Field scouted for insects,percent of planted acres
+Insect Control Management Practice,Acres treated with insecticide,percent of planted acres
+Insect Control Management Practice,Number of treatments with insecticide,Number
+Insect Control Management Practice,Treatment rate with insecticide,Pounds a.i. per treated acre
+Selected Pest Management Practice,Planted acres,"1,000 Acres"
+Selected Pest Management Practice,Protection of beneficial insects a factor in pesticide decisions,percent of planted acres
+Selected Pest Management Practice,Apply/release beneficial organisms to control pests,percent of planted acres
+Selected Pest Management Practice,Water management practices to control pests,percent of planted acres
+Selected Pest Management Practice,"Tilling, chopping, mowing, burning to control pests",percent of planted acres
+Selected Pest Management Practice,Clean equipment to reduce spread of pests,percent of planted acres
+Selected Pest Management Practice,Cultivated field for weed control,percent of planted acres
+Selected Pest Management Practice,Adjust plant/harvest date to control pests,percent of planted acres
+Selected Pest Management Practice,Soil analysis to detect pests,percent of planted acres
+Selected Pest Management Practice,Alternate pesticides to prevent pest resistance,percent of planted acres
+Selected Pest Management Practice,Adjust row spacing/plant density for pest control,percent of planted acres
+Selected Pest Management Practice,Biological pest controls used ,percent of planted acres
+Selected Pest Management Practice,Ground covers used,percent of planted acres
+Selected Pest Management Practice,Trap crops used,percent of planted acres
+Selected Pest Management Practice,Diagnostic lab used for pest ID,percent of planted acres
+Selected Pest Management Practice,Buffer strips or other physical barriers used,percent of planted acres
+Conservation Practices,Planted acres,"1,000 Acres"
+Conservation Practices,Conservation program participation (cost-share/incentive received),percent of planted acres
+Conservation Practices,Cost-share or incentive from EQIP,percent of acres receiving payments
+Conservation Practices,Cost-share or incentive from CSP,percent of acres receiving payments
+Conservation Practices,Cost-share or incentive from CRP,percent of acres receiving payments
+Conservation Practices,Cost-share or incentive received from other programs,percent of acres receiving payments
+Conservation Practices,Written conservation plan for soil erosion,percent of planted acres
+Conservation Practices,Cost-share or incentive received (erosion plan),percent of acres w/ erosion plan
+Conservation Practices,Soil erosion controls used,percent of planted acres
+Conservation Practices,Cost-share or incentive received (erosion controls),percent of acres w/ soil erosion controls
+Conservation Practices,Written conservation plan for nutrient management,percent of planted acres
+Conservation Practices,Cost-share or incentive received (nutrient plan),percent of acres w/ nutrient plan
+Conservation Practices,Conservation buffers used,percent of planted acres
+Conservation Practices,Cost-share or incentive received for conservation buffers,percent of acres w/ conservation buffers
+Conservation Practices,Written conservation plan for pest management,percent of planted acres
+Conservation Practices,Cost-share or incentive received (pest plan),percent of acres w/ pest mgmt plan
+Conservation Practices,Written conservation plan for irrigation management,percent of planted acres
+Conservation Practices,Cost-share or incentive received (irrigation plan),percent of acres w/ water mgmt plan
+Conservation Practices,Water control structures used,percent of planted acres
+Conservation Practices,Cost-share or incentive received (water control structures),percent of acres w/ water control structures
+Conservation Practices,Other conservation practices used,percent of planted acres
+Conservation Practices,Cost-share or incentive received (other conservation practices),percent of acres w/ other conservation practices
+Conservation Practices,Received technical assistance for conservation practices,percent of planted acres
+Nutrient Use and Management,Planted acres,"1,000 Acres"
+Nutrient Use and Management,Manure applied,percent of planted acres
+Nutrient Use and Management,Ever treated with lime,percent of planted acres
+Nutrient Use and Management,Treated with chemical fertilizer and manure,percent of planted acres
+Nutrient Use and Management,Nitrogen inhibitor used,percent of planted acres
+Nutrient Use and Management,"Soil tested for N,P2O5,K2O",percent of planted acres
+Nutrient Use and Management,Soil tested for N,percent of planted acres
+Nutrient Use and Management,Plant tissue test used,percent of planted acres
+Nutrient Use and Management,Acres treated with N,percent of planted acres
+Nutrient Use and Management,Acres treated with P2O5,percent of planted acres
+Nutrient Use and Management,Acres treated with K2O,percent of planted acres
+Nutrient Use and Management,N applied,Pounds per treated acre
+Nutrient Use and Management,P2O5 applied,Pounds per treated acre
+Nutrient Use and Management,K2O applied,Pounds per treated acre
+Nutrient Use and Management,Compost applied,percent of planted acres
+Nutrient Use by Application Method,Planted acres,"1,000 Acres"
+Nutrient Use by Application Method,Acres treated with N,percent of planted acres
+Nutrient Use by Application Method,No N broadcast,Percent of acres with N
+Nutrient Use by Application Method,All N broadcast with incorp.,Percent of acres with N
+Nutrient Use by Application Method,All N broadcast without incorp.,Percent of acres with N
+Nutrient Use by Application Method,"Mixed N application method, with incorp.",Percent of acres with N
+Nutrient Use by Application Method,"Mixed N application method, without incorp.",Percent of acres with N
+Nutrient Use by Application Method,Acres treated with P2O5,percent of planted acres
+Nutrient Use by Application Method,No P2O5 broadcast,Percent of acres with P
+Nutrient Use by Application Method,All P2O5 broadcast with incorp.,Percent of acres with P
+Nutrient Use by Application Method,All P2O5 broadcast without incorp.,Percent of acres with P
+Nutrient Use by Application Method,"Mixed P2O5 application method, with incorp.",Percent of acres with P
+Nutrient Use by Application Method,"Mixed P2O5 application method, without incorp.",Percent of acres with P
+Nutrient Use by Application Method,Acres treated with K2O,percent of planted acres
+Nutrient Use by Application Method,No K2O broadcast,Percent of acres with K
+Nutrient Use by Application Method,All K2O broadcast with incorp.,Percent of acres with K
+Nutrient Use by Application Method,All K2O broadcast without incorp.,Percent of acres with K
+Nutrient Use by Application Method,"Mixed K2O application method, with incorp.",Percent of acres with K
+Nutrient Use by Application Method,"Mixed K2O application method, without incorp.",Percent of acres with K
+Nutrient Use by Application Timing,Planted acres,"1,000 Acres"
+Nutrient Use by Application Timing,Acres treated with N,percent of planted acres
+Nutrient Use by Application Timing,N in Fall before planting,Percent of acres with N
+Nutrient Use by Application Timing,N in Spring before planting,Percent of acres with N
+Nutrient Use by Application Timing,N at planting,Percent of acres with N
+Nutrient Use by Application Timing,N after planting,Percent of acres with N
+Nutrient Use by Application Timing,Acres treated with P2O5,percent of planted acres
+Nutrient Use by Application Timing,P2O5 in Fall before planting,Percent of acres with P
+Nutrient Use by Application Timing,P2O5 in Spring before planting,Percent of acres with P
+Nutrient Use by Application Timing,P2O5 at planting,Percent of acres with P
+Nutrient Use by Application Timing,P2O5 after planting,Percent of acres with P
+Nutrient Use by Application Timing,Acres treated with K2O,percent of planted acres
+Nutrient Use by Application Timing,K2O in Fall before planting,Percent of acres with K
+Nutrient Use by Application Timing,K2O in Spring before planting,Percent of acres with K
+Nutrient Use by Application Timing,K2O at planting,Percent of acres with K
+Nutrient Use by Application Timing,K2O after planting,Percent of acres with K
+Nutrient Use by Application Timing,N applied,Pounds per treated acre
+Nutrient Use by Application Timing,N applied in Fall before planting,Pounds per treated acre
+Nutrient Use by Application Timing,N applied in Spring before planting,Pounds per treated acre
+Nutrient Use by Application Timing,N applied at planting,Pounds per treated acre
+Nutrient Use by Application Timing,N applied after planting,Pounds per treated acre
+Nutrient Use by Application Timing,P2O5 applied,Pounds per treated acre
+Nutrient Use by Application Timing,P2O5 applied in Fall before planting,Pounds per treated acre
+Nutrient Use by Application Timing,P2O5 applied in Spring before planting,Pounds per treated acre
+Nutrient Use by Application Timing,P2O5 applied at planting,Pounds per treated acre
+Nutrient Use by Application Timing,P2O5 applied after planting,Pounds per treated acre
+Nutrient Use by Application Timing,K2O applied,Pounds per treated acre
+Nutrient Use by Application Timing,K2O applied in Fall before planting,Pounds per treated acre
+Nutrient Use by Application Timing,K2O applied in Spring before planting,Pounds per treated acre
+Nutrient Use by Application Timing,K2O applied at planting,Pounds per treated acre
+Nutrient Use by Application Timing,K2O applied after planting,Pounds per treated acre
+Nutrient Use by Manure Application and Soil Test,Planted acres,"1,000 Acres"
+Nutrient Use by Manure Application and Soil Test,Treated with manure,percent of planted acres
+Nutrient Use by Manure Application and Soil Test,Not treated with manure,percent of planted acres
+Nutrient Use by Manure Application and Soil Test,Soil-tested for N,percent of planted acres
+Nutrient Use by Manure Application and Soil Test,Not Soil-tested for N,percent of planted acres
+Nutrient Use by Manure Application and Soil Test,Receiving N,Percent of acres treated with manure
+Nutrient Use by Manure Application and Soil Test,Receiving P2O5,Percent of acres treated with manure
+Nutrient Use by Manure Application and Soil Test,Receiving K2O,Percent of acres treated with manure
+Crop Insurance,Planted acres,"1,000 Acres"
+Crop Insurance,Crop insurance coverage (federal or private),percent of planted acres
+Crop Insurance,Received indemnity payments (federal or private),percent of acres w/ any crop insurance
+Crop Insurance,Received no indemnity payments (federal or private),percent of acres w/ any crop insurance
+Crop Insurance,Federal crop insurance coverage,percent of planted acres
+Crop Insurance,Federal basic catastrophic (CAT) coverage,percent of acres w/ federal crop insurance
+Crop Insurance,Federal basic CAT + buyup,percent of acres w/ federal crop insurance
+Crop Insurance,Federal revenue coverage,percent of acres w/ federal crop insurance
+Crop Insurance,Other Federal coverage,percent of acres w/ federal crop insurance
+Crop Insurance,Only Federal coverage,percent of acres w/ federal crop insurance
+Crop Insurance,Received Federal indemnity payments,percent of acres w/ federal crop insurance
+Crop Insurance,Average premium paid for federal crop insurance,Dollars per acre
+Crop Insurance,Approved Actual Production History (APH),Bushels per planted acre
+Crop Insurance,Private crop insurance coverage,percent of planted acres
+Crop Insurance,Received private indemnity payments,percent of acres w/ private crop insurance
+Manure Table,Planted acres,"1,000 Acres"
+Manure Table,Treated with manure,percent of planted acres
+Manure Table,Tons Applied,Tons per treated acre
+Manure Table,Pct of manure applied in the fall before planting,Percent
+Manure Table,Percent of Manure applied in the spring before planting,Percent
+Manure Table,Pct of manure applied after planting,Percent
+Manure Table,Manure Produced on the Operation,Manure Source Pct of Treated Acres
+Manure Table,Manure Produced off the Operation,Manure Source Pct of Treated Acres
+Manure Table,All Manure,Manure Source Pct of Treated Acres
+Manure Table,Slurry Liquid,Manure State Pct of Treated Acres
+Manure Table,Semi-dry or Dry,Manure State Pct of Treated Acres
+Manure Table,Lagoon liquid,Manure State Pct of Treated Acres
+Manure Table,Broadcast w/out Incorporation,Application Method Pct of Manured Acres
+Manure Table,Broadcast or Sprayed with incorporation,Application Method Pct of Manured Acres
+Manure Table,Injected/knifed in,Application Method Pct of Manured Acres
+Manure Table,Sprayed using irrigation systems,Application Method Pct of Manured Acres
+Manure Table,Beef cattle,Manure Type Pct of Treated Acres
+Manure Table,Dairy cattle,Manure Type Pct of Treated Acres
+Manure Table,Hogs,Manure Type Pct of Treated Acres
+Manure Table,Poultry,Manure Type Pct of Treated Acres
+Manure Table,Other,Manure Type Pct of Treated Acres
+Manure Table,Produced on this operation,Manure Source Pct of Treated Acres
+Manure Table,Purchased,Manure Source Pct of Treated Acres
+Manure Table,Obtained at no cost off this operation,Manure Source Pct of Treated Acres
+Manure Table,Obtained with compensation,Manure Source Pct of Treated Acres
+Manure Table,Application Rate Influenced By Restrictions,Application Rate Influenced Pct of Treated Acres
+Manure Table,Distance traveled by manure obtained off the operation,Miles
+Manure Table,Distance traveled by manure produced by the operation,Miles
+Manure Table,Distance traveled by manure used,Miles
+Precision Agriculture,Planted acres,"1,000 Acres"
+Precision Agriculture,Precision Agriculture Used,percent of planted acres
+Precision Agriculture,Yield Monitor Used,percent of planted acres
+Precision Agriculture,Yield Map Created,percent of planted acres
+Precision Agriculture,Yield Monitor Information Uses: Monitor Crop Moisture,percent of planted acres
+Precision Agriculture,Yield Monitor Information Uses: Conduct Experiments,percent of planted acres
+Precision Agriculture,Yield Monitor Information Uses: Document Yield,percent of planted acres
+Precision Agriculture,Yield Monitor Information Uses: Other Uses,percent of planted acres
+Precision Agriculture,Soil properties map based on: Soil test,percent of planted acres
+Precision Agriculture,Soil properties map based on: Electrical conductivity,percent of planted acres
+Precision Agriculture,Soil properties map based on: Other,percent of planted acres
+Precision Agriculture,Aerial or Satellite Image Made,percent of planted acres
+Precision Agriculture,VRT used for Any Purpose,percent of planted acres
+Precision Agriculture,VRT used for Any Fertilizing,percent of planted acres
+Precision Agriculture,VRT used for Nitrogen Application,percent of planted acres
+Precision Agriculture,VRT used for Phosphorus Application,percent of planted acres
+Precision Agriculture,VRT used for Potash Application,percent of planted acres
+Precision Agriculture,VRT used for other application,percent of planted acres
+Precision Agriculture,VRT used for Seeding,percent of planted acres
+Precision Agriculture,VRT used for Pesticide Application,percent of planted acres
+Precision Agriculture,Guidance or AutoSteering System Used,percent of planted acres
